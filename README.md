@@ -1,2 +1,1 @@
-# newrepo
-this is mu project
+raju
